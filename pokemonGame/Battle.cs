@@ -8,5 +8,6 @@ namespace pokemonGame
 {
     internal class Battle
     {
+        Console.WriteLine("Hello");
     }
 }
