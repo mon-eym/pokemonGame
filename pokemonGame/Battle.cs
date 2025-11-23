@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace pokemonGame
 {
-    internal class Battle
+    internal class battle
     {
-        Console.WriteLine("Hello");
     }
 }
