@@ -5,6 +5,7 @@ class Program
        static void Main(string[] args)
     {
         Console.WriteLine("Welcome to the Pokémon Game!");
+        Console.WriteLine("How are you?");
         Console.WriteLine("Choose your starter Pokémon:");
         Console.WriteLine("1. Bulbasaur");
         Console.WriteLine("2. Charmander");

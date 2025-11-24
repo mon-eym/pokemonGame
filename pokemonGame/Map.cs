@@ -8,5 +8,6 @@ namespace pokemonGame
 {
     internal class Map
     {
+        
     }
 }
